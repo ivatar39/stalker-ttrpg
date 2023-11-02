@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Пока
+title: Вступление
 nav_order: 2
 ---
 
- Пока!
+Вступление...

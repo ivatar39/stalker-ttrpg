@@ -5,6 +5,3 @@ theme: just-the-docs
 url: https://ivatar39.github.io/stalker-ttrpg
 
 color_scheme: dark
-
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
