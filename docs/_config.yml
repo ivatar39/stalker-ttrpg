@@ -24,7 +24,7 @@ gh_edit_source: docs
 gh_edit_view_mode: "edit"
 
 aux_links:
-  "S.T.A.L.K.E.R. на GitHub":
+  "S.T.A.L.K.E.R. TTRPG на GitHub":
     - "https://github.com/ivatar39/stalker-ttrpg"
 
 # Makes Aux links open in a new tab. Default is false
