@@ -22,6 +22,9 @@ gh_edit_branch: "main"
 gh_edit_source: docs 
 # "tree" or "edit" if you want the user to jump into the editor immediately
 gh_edit_view_mode: "edit"
+# Google Analytics Tracking (optional)
+# Supports a CSV of tracking ID strings (eg. "UA-1234567-89,G-1AB234CDE5")
+ga_tracking: 'G-TCXFBE12YN'
 
 aux_links:
   "S.T.A.L.K.E.R. TTRPG на GitHub":
