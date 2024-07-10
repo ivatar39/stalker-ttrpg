@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Карта зоны
-nav_order: 4
+nav_order: 18
 has_children: true
 last_modified_date: 04.11.2023 13:44
 ---
