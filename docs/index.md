@@ -12,7 +12,7 @@ last_modified_date: 04.11.2023 13:42
 
 Данную страницу можно использовать как справочник по правилам для игры. Версионирование правил отсутствует, играть лучше всего по самой "свежей" версии правил.
 
-![full-art-main-page.png](../assets/images/full-art-main-page.png)
+![full-art-main-page.png](https://github.com/ivatar39/stalker-ttrpg/blob/main/assets/images/full-art-main-page.png?raw=true)
 
 ## Статус проекта: **в разработке**
 

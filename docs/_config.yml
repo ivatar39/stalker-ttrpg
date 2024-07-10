@@ -5,7 +5,7 @@ theme: just-the-docs
 url: https://ivatar39.github.io/stalker-ttrpg
 
 color_scheme: dark
-favicon_ico: "/assets/images/favicon.ico"
+favicon_ico: "https://raw.githubusercontent.com/ivatar39/stalker-ttrpg/main/assets/images/favicon.ico"
 
 # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_timestamp: true 
