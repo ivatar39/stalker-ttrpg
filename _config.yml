@@ -19,7 +19,7 @@ gh_edit_repository: "https://github.com/ivatar39/stalker-ttrpg"
 # the branch that your docs is served from
 gh_edit_branch: "main" 
 # the source that your files originate from
-gh_edit_source: /
+# gh_edit_source: /
 # "tree" or "edit" if you want the user to jump into the editor immediately
 gh_edit_view_mode: "edit"
 # Google Analytics Tracking (optional)
