@@ -35,6 +35,6 @@ aux_links_new_tab: true
 
 defaults:
   - scope:
-      path: ""
+      path: "docs"
     values:
       layout: "default"
