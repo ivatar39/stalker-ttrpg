@@ -34,7 +34,8 @@ aux_links:
 aux_links_new_tab: true
 
 defaults:
-  - scope:
-      path: "docs"
+  -
+    scope:
+      path: "_*" # an empty string here means all files in the project
     values:
       layout: "default"
